@@ -11,3 +11,6 @@ Avec tout ce que l'on vient de voir :
     - les moyens mis en oeuvre pour tester
 - Identifiez les points de blocages ET les bons points s'il y en a
 - Identifiez les outils utilisés
+
+
+sdfsfff rs gqeg
