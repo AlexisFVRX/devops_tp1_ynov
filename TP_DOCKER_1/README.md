@@ -8,6 +8,10 @@
     Réponse : docker image ls
 
     c. Créer un fichier dans votre repo local ./html/index.html qui contient "Hello World"
+
+    Réponse : Dossier html créé, fichier index.html crée qui contient <p> Hello world </p>
+
+
     d. Démarrer un nouveau container et servir la page html créée précédemment à l'aide d'un volume
     e. Supprimer le container
     f. Relancez le même container sans le volume mais utilisez la commande cp pour servir votre fichier
