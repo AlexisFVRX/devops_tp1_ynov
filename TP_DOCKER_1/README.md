@@ -19,4 +19,9 @@
               docker run -v "${PWD}/html":/usr/share/nginx/html -d -p 4300:80 nginx  
 
     e. Supprimer le container
+
+    Réponse : docker rm angry_rosalind --force  
+
     f. Relancez le même container sans le volume mais utilisez la commande cp pour servir votre fichier
+
+    Réponse : docker cp ./html/index.html laughing_wilson:/usr/share/nginx/html 
