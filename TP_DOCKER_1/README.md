@@ -14,9 +14,9 @@
 
     d. Démarrer un nouveau container et servir la page html créée précédemment à l'aide d'un volume
 
-    Réponse : docker run nginx 
-              docker volume create tp
-              docker run -v "${PWD}/html":/usr/share/nginx/html -d -p 4300:80 nginx  
+    Réponse : docker run nginx  
+              docker volume create tp  
+              docker run -v "${PWD}/html":/usr/share/nginx/html -d -p 4300:80 nginx   
 
     e. Supprimer le container
 
